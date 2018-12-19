@@ -6,7 +6,6 @@ Dataset have handwritten 60000 train, 10000 test images.
 
 Examples;
 
-<img src="./images/5.png"/><br/>
 <img src="./images/6.png"/><br/>
 <img src="./images/1.png"/><br/>
 
